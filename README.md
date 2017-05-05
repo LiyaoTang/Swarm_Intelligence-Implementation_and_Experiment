@@ -4,4 +4,4 @@
 Homework from course Optimization Methods in Beijing Institude University. The course is given in chinese, hence report in chinese.
 The course is fun and basically about swarm intelligence. 
 
-Code is uploaded for potential further study. And I just don't want to lose such an interesting code when buying new computer, which will be soon I guess.
+Code is uploaded for potential further study. And I just don't want to lose such an interesting code because of buying new computer, which will be soon I guess.
